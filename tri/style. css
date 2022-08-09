@@ -1,0 +1,57 @@
+body{
+  font-family:Itim, cursive;
+  }
+h1{
+  margin:5px 5px;
+  color:rgb(0,0,100);
+  font-weight:800;
+  font-size:18px;
+  text-align:center;
+  padding-top:10px;
+  text-shadow:3px 3px 3px grey;
+  }
+img{
+  width:100px;
+  height:100px;
+  display:block;
+  border-radius:10px;
+  box-shadow:0 0 10px 0 ;
+  margin:0 auto;
+  }
+  #img-div{
+    margin:0;
+    padding-left:10px
+    }
+#img-caption{
+text-align:center;
+  font-size:10px;
+  padding-top:10px;
+  font-weight:bold;
+  }
+#main{
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  width:80%;
+  margin:0 auto;
+  border-radius:10px;
+ }
+body{
+  background-color:grey;
+  }
+ 
+.date{
+  font-weight:bold
+    }
+  #tribute-link p{
+    padding:10px;
+    }
+ p{
+  padding:0 5px;
+  font-size:9px;
+   text-align:justify;
+   margin:2px;
+
+  }
+#tribute-info p{
+  width:80%;
+  margin:auto;
+}
